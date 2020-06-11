@@ -1,0 +1,19 @@
+{
+    "company": [
+        {
+            "symbol": "Infosys",
+            "pricePerShare": 400,
+            "totalShare": 209
+        },
+        {
+            "symbol": "TATA",
+            "pricePerShare": 300,
+            "totalShare": 413
+        },
+        {
+            "symbol": "Reliance",
+            "pricePerShare": 180,
+            "totalShare": 251
+        }
+    ]
+}
