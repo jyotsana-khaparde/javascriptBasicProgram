@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Prints 2D Array of Integer, Double, and Boolean values .
  *  @file           : TwoDArray.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

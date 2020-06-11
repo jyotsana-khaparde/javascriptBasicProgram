@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Check how many Binary Search Tree can be created using N nodes .
  *  @file           : NumberOfBST.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 02-01-2019
  **********************************************************************************/

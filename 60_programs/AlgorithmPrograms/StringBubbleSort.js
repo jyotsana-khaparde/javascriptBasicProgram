@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Sort a string array using Bubble Sort.
  *  @file           : StringBubbleSort.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

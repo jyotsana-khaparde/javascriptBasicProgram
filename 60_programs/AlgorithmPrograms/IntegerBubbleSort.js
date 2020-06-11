@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Sorts the Integer array using Bubble Sort.
  *  @file           : IntegerBubbleSort.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

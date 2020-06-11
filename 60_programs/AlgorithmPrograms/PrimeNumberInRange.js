@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Prints Prime Number within given range.
  *  @file           : PrimeNumberInRange.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

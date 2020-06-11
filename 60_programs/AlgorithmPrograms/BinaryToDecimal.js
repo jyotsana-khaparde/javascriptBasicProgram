@@ -2,7 +2,7 @@
  *  Purpose         : Convert decimal to binary then swap the nibbles of binary number 
  *                    generated to form new decimal number.
  *  @file           : BinaryToDecimal.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

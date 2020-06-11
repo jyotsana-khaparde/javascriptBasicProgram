@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Guess a number within range using Binary Search.
  *  @file           : GuessANumber.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 28-12-2018
  **********************************************************************************/

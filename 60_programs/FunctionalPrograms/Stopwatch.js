@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Calculates the elapsed time using startTime and stopTime of StopWatch.
  *  @file           : Stopwatch.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

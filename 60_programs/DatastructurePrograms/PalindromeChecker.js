@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Checks Balanced Parantheses in input expression using Queue.
  *  @file           : PalidromeChecker.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 02-01-2019
  **********************************************************************************/

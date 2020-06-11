@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Search an Integer value using Binary Search. 
  *  @file           : BinarySearchInteger.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

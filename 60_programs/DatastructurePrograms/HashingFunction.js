@@ -2,7 +2,7 @@
  *  Purpose         : To read numbers from input file and perform Hashing Function 
                         to search a Number in a slot and write the output to a file.
  *  @file           : HashingFunction.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 07-01-2018
  **********************************************************************************/

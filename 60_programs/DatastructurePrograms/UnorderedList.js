@@ -2,7 +2,7 @@
  *  Purpose         : Unordered list of strings read from a file to search a word 
  *                      using Linked List.
  *  @file           : UnorderedList.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 30-12-2018
  **********************************************************************************/

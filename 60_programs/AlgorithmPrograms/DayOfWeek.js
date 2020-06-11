@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Calculate Day of Week the Input Date falls on.
  *  @file           : DayOfWeek.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

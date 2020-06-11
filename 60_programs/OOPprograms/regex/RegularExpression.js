@@ -2,7 +2,7 @@
  *  Purpose         : Using Regex replace the input file with correct strings and write 
                         the output to a Outputfile.
  *  @file           : RegularExpression.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 07-01-2018
  **********************************************************************************/

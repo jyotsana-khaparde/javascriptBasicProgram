@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Replace String with correct string input by user.
  *  @file           : StringReplace.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

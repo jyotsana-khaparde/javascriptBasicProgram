@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Generates distinct cards From deck of cards.
  *  @file           : DeckOfCards.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 05-01-2019
  **********************************************************************************/

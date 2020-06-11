@@ -3,7 +3,7 @@
  *                    in a Stack implemented using Linked List to indicate transactions 
  *                    done
  *  @file           : stocktransaction.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 0.1
  *  @since          : 10-01-2019
  **********************************************************************************/

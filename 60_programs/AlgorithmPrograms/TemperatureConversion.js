@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Calculates input temperature into Celsius and Fahrenheit.
  *  @file           : TemperatureConversion.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

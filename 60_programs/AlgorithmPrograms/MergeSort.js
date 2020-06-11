@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Sorts the String array using Merge Sort.
  *  @file           : MergeSortString.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

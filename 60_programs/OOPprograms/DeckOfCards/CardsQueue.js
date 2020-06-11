@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Generates distinct cards From deck of cards using Queue.
  *  @file           : CardsQueue.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 09-01-2019
  **********************************************************************************/

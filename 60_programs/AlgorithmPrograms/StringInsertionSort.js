@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Sort an string array using Insertion Sort.
  *  @file           : StringInsertionSort.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

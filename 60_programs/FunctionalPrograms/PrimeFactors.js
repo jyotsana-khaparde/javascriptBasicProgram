@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Calculates the prime factors of input numbers.
  *  @file           : PrimeFactors.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

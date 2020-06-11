@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Banking Cash Counter to deposit and withdraw money using Queue.
  *  @file           : BankingCashCounter.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 31-12-2018
  **********************************************************************************/

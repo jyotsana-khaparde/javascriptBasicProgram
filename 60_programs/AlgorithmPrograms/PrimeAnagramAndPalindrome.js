@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Prints the Prime numbers that are Palindrome within given range.
  *  @file           : PrimeAnagramAndPalindrome.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

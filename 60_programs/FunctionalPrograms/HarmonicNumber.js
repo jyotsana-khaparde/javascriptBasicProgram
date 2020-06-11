@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Prints the Harmonic value calculated of given number.
  *  @file           : HarmonicNumber.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

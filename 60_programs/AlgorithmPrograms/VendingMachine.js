@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Vending Machine to count the number of notes into input cash by user.
  *  @file           : VendingMachine.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

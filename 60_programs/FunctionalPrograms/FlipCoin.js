@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Flip coin to calculate the percentage of heads and tails.
  *  @file           : FlipCoin.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

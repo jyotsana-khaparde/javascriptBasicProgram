@@ -1,7 +1,7 @@
 /**************************************************************************
  * Purpose: Simple Address Book to store address and to find the adress of existing person.
  * @filename  addressbook.js
- * @author Shweta Bochare
+ * @author Jyotsana Khaparde
  * @version 1.0
  * @since 10/01/2019 
  *****************************************************************************/

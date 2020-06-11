@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Print Prime Number in 2d Array.
  *  @file           : Prime2DArray.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 04-01-2019
  **********************************************************************************/

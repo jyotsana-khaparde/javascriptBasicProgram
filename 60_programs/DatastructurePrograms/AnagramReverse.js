@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Find Prime that are anagrams using Stack.
  *  @file           : AnagramReverse.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 04-01-2018
  **********************************************************************************/

@@ -2,7 +2,7 @@ const readline = require('readline');
 /*/**********************************************************************************
  *  Purpose         : Search a word input by user from a file using Binary Search.
  *  @file           : SearchWord.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

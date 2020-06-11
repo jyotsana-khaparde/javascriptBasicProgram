@@ -2,7 +2,7 @@
  *  Purpose         : Gambling Simulator to calculate the percentage of games win 
  *                      and bets made.
  *  @file           : GamblingSimulator.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

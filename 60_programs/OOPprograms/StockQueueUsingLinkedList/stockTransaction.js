@@ -3,7 +3,7 @@
  *                    Queue implemented using Linked List to indicate when the transactions
  *                    were done.
  *  @file           : stockTransaction.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 0.1
  *  @since          : 10-01-2019
  **********************************************************************************/

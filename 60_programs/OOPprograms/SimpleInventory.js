@@ -2,7 +2,7 @@
  *  Purpose         : Create a JSON file having Inventory Details for Rice, Pulses and Wheats
                       with properties name, weight, price per kg.
  *  @file           : inventory.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 0.1
  *  @since          : 04-01-2019
  **********************************************************************************/

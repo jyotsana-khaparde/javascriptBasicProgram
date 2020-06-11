@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Calculates the square root of input number using Newton's square root method.
  *  @file           : NewtonSqrt.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

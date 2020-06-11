@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Check if two strings are anagram or not. 
  *  @file           : Anagram.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/

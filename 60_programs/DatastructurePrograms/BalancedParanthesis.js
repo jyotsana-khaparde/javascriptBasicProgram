@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Checks Balanced Parantheses in input expression using Stack.
  *  @file           : BalancedParantheses.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 31-12-2018
  **********************************************************************************/

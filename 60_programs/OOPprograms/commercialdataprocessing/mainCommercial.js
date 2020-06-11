@@ -2,7 +2,7 @@
  *  Purpose         : Commercial data processing that implements a data type to keep 
                         track of customer information.
  *  @file           : mainCommercial.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 09-01-2019
  **********************************************************************************/

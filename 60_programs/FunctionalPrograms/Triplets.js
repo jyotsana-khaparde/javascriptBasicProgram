@@ -1,7 +1,7 @@
 /*/**********************************************************************************
  *  Purpose         : Find the Triplets that sum's to zero from array input by user.
  *  @file           : Triplets.js
- *  @author         : Shweta Bochare
+ *  @author         : Jyotsana Khaparde
  *  @version        : 1.0
  *  @since          : 12-09-2018
  **********************************************************************************/
